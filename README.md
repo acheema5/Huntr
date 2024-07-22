@@ -1,4 +1,4 @@
-# Huntr Project Overview: Huntr Inspiration As college students on the cusp of entering the workforce, we encountered firsthand the frustrations and inefficiencies of traditional job search methods. The process was impersonal and often failed to match us with job opportunities that truly fit our skills and aspirations. Motivated by these challenges, we set out to create Huntr, a platform that harnesses the power of algorithms to deliver a personalized, efficient job search experience.
+Huntr Project Overview: Huntr Inspiration As college students on the cusp of entering the workforce, we encountered firsthand the frustrations and inefficiencies of traditional job search methods. The process was impersonal and often failed to match us with job opportunities that truly fit our skills and aspirations. Motivated by these challenges, we set out to create Huntr, a platform that harnesses the power of algorithms to deliver a personalized, efficient job search experience.
 
 What We Learned
 
